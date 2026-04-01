@@ -1,0 +1,14 @@
+D:\perceptron-ia\csharp\bin\Debug\net6.0\PerceptronCS.exe
+D:\perceptron-ia\csharp\bin\Debug\net6.0\PerceptronCS.deps.json
+D:\perceptron-ia\csharp\bin\Debug\net6.0\PerceptronCS.runtimeconfig.json
+D:\perceptron-ia\csharp\bin\Debug\net6.0\PerceptronCS.dll
+D:\perceptron-ia\csharp\bin\Debug\net6.0\PerceptronCS.pdb
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.AssemblyInfoInputs.cache
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.AssemblyInfo.cs
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.csproj.CoreCompileInputs.cache
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.dll
+D:\perceptron-ia\csharp\obj\Debug\net6.0\refint\PerceptronCS.dll
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.pdb
+D:\perceptron-ia\csharp\obj\Debug\net6.0\PerceptronCS.genruntimeconfig.cache
+D:\perceptron-ia\csharp\obj\Debug\net6.0\ref\PerceptronCS.dll
